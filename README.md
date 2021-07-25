@@ -1,5 +1,7 @@
 # CH5-Daily-Planner
 
+## Live URL: https://pfizzz.github.io/CH5-Daily-Planner/
+
 ![image](https://github.com/Pfizzz/CH5-Daily-Planner/blob/87b99ab028d7370ee24d24334c11e251b1060979/ss1.png)
 
 ## Version 1
