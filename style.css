@@ -73,3 +73,11 @@ textarea{
 li {
   list-style: none;
 }
+
+.border-3 {
+  border-width: 3px;
+}
+
+.col-8 {
+  background-color: rgb(197, 208, 219);
+}
