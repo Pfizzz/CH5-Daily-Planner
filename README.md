@@ -1,6 +1,6 @@
 # CH5-Daily-Planner
 
-[!](https://github.com/Pfizzz/CH5-Daily-Planner/blob/87b99ab028d7370ee24d24334c11e251b1060979/ss1.png)
+![image](https://github.com/Pfizzz/CH5-Daily-Planner/blob/87b99ab028d7370ee24d24334c11e251b1060979/ss1.png)
 
 ## Version 1
 
